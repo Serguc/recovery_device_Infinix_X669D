@@ -22,7 +22,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base_telephony.mk)
 $(call inherit-product, vendor/twrp/config/common.mk)
 
 # Inherit from X669D device
-$(call inherit-product, device/infinix/X669D/device.mk)
+$(call inherit-product, device/Infinix/X669D/device.mk)
 
 PRODUCT_NAME := twrp_X669D
 PRODUCT_DEVICE := X669D
