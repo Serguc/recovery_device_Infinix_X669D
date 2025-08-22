@@ -4,7 +4,7 @@
 #
 # SPDX-License-Identifier: Apache-2.0
 #
-DEVICE_PATH := device/infinix/X669D
+DEVICE_PATH := device/Infinix/X669D
 
 
 # For building with minimal manifest
