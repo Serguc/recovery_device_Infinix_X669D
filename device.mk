@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-LOCAL_PATH := device/infinix/X669D
+LOCAL_PATH := device/Infinix/X669D
 
 # A/B
 AB_OTA_POSTINSTALL_CONFIG += \
